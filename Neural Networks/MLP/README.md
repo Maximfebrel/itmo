@@ -6,5 +6,7 @@
 
 Значения метрик:
 
-1. Accuracy 0.85;
-2. F1-score
+1. accuracy:0.9;
+2. precession:0.93;
+3. recall:0.84;
+4. f_1-мера:0.88.
